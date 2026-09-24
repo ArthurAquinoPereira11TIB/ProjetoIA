@@ -2,7 +2,7 @@
 # Pagode Fest SP 2026
 
 **Dupla:** Arthur Aquino Pereira e Miguel Lima Costa
-**Site publicado:** [Link da Vercel]
+**Site publicado:** (https://projeto-ia-lake.vercel.app)
 
 ## Briefing
 * **Público-alvo:** Jovens e adultos (18 a 40 anos) apaixonados por samba de roda, pagode diurno, churrasco com amigos e energia de festival ensolarado ao ar livre.
