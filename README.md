@@ -1,15 +1,3 @@
-
-
-## Antes e Depois
-![Antes](img/antes.png)
-![Depois](img/depois.png)
-
-## Os 4 prompts que mais fizeram diferença
-1. "Crie um estilo visual único para um festival de pagode diurno usando fundo creme quentinho (#FFFDF7), elementos no formato de ingressos destacáveis com recortes laterais e selos no estilo adesivo."
-2. "Substitua a estrutura quadrada comum por um layout alegre com uma faixa rotativa em movimento (marquee ticker) anunciando as datas e local no topo."
-3. "Desenvolva o CSS de cards de artistas que pareçam cartazes de festival com selos flutuantes inclinados e efeito de elevação dinâmica no hover."
-4. "Reestruture o código em 5 páginas HTML distintas com navegação consistente em pílula flutuante e garanta total compatibilidade para publicação na Vercel."
-=======
 # Pagodeando SP 2026
 
 **Dupla:** Arthur Aquino Pereira e Miguel Lima Costa
