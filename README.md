@@ -1,22 +1,4 @@
-**Site publicado:** https://projeto-ia-lake.vercel.app
 
-## Briefing
-* **Público-alvo:** Jovens e adultos (18 a 40 anos) apaixonados por samba de roda, pagode diurno, churrasco com amigos e energia de festival ensolarado ao ar livre.
-* **Clima do festival em 3 palavras:** Ensolarado, vibrante e descontraído.
-* **Conceito de Design Único:** Visual baseado em adesivos, recortes laterais de ingressos (ticket notches), letreiro em movimento (marquee ticker) e tons quentes de roda de samba.
-* **Paleta de Cores:**
-  * `#FFC700` (Amarelo Ouro Solar) - Cor principal para energia e calor.
-  * `#FF5E36` (Laranja Por do Sol) - Usado em botões, destaques e elementos interativos.
-  * `#00C853` (Verde Palmeira) - Detalhes tropicais, badges de destaque e status.
-  * `#FFFDF7` (Areia de Praia / Creme) - Fundo quente e iluminado.
-  * `#1A181C` (Tinta Grafite) - Contornos marcantes para estilo ilustração.
-* **Google Fonts:**
-  * **Fredoka (Títulos):** Tipografia arredondada que lembra marcas de verão e rodas de samba.
-  * **Plus Jakarta Sans (Textos):** Leitura limpa e moderna para cards e menus.
-* **Sites de Inspiração:**
-  * *Coachella (Seção Merch/Stickers):* Badges inclinados e selos sobrepostos.
-  * *Tardezinha:* Clima ensolarado e tom quente.
-  * *Design Neo-brutalista Tropical:* Bordas bem definidas, sombras em bloco e recortes de bilhetes.
 
 ## Antes e Depois
 ![Antes](img/antes.png)
@@ -51,12 +33,13 @@
   2. [Tardezinha](https://tardezinha.com.br/): Inspiração na energia visual com cores quentes e vibrantes associadas ao pagode.
   3. [Festival Rock in Rio](https://rockinrio.com/): Inspiração na organização visual das regras e itens permitidos/proibidos.
 
-## Antes e depois
-
+## Antes e Depois
+![Antes](img/antes.png)
+![Depois](img/depois.png)
 
 ## Os 4 prompts que mais fizeram diferença
 1. "Ajuste o cabeçalho e menu de navegação para ficarem fixos no topo, utilizando fundo escuro (#1a1821) e borda inferior em laranja (#ff5a2b) com o indicador .ativa."
 2. "Crie a seção do Line-up em um grid responsivo de cards com imagem do artista, garantindo enquadramento no topo com object-position para não cortar os rostos, badge em amarelo (#ffb703) e nome em fonte Poppins."
 3. "Estilize o site com um tema escuro sofisticado e alegre, utilizando tons de fundo em grafite/violeta (#131217) com destaques quentes em laranja pôr do sol (#ff5a2b) e amarelo âmbar (#ffb703)."
 4. "Na página de informações, crie dois quadros divididos lado a lado com bordas indicativas verde e vermelha para 'O que pode' e 'O que não pode' levar, mantendo o visual limpo e sem emojis."
->>>>>>> 9c4aa51f104d26fc9475ff35bc3b9228ca2e6f00
+
